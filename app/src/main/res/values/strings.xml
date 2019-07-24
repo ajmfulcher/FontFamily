@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Font Family</string>
+    <string name="mix_of_styles">This is a mix of normal, <b>bold</b> and <i>italic</i> text</string>
+</resources>
